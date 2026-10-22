@@ -1,0 +1,6 @@
+{
+  "_nota": "Fonte da verdade dos enderecos do remote-desk. Edite e os clientes seguem no proximo boot (cache ~5 min no raw do GitHub). Mantenha as chaves relay/api/purchase.",
+  "relay": "srv1776435.hstgr.cloud:6000",
+  "api": "http://srv1776435.hstgr.cloud:8000",
+  "purchase": "https://remote-desk-app.vercel.app/#planos"
+}
